@@ -4310,3 +4310,8 @@
 			}
 
 		}
+		
+		#one, #two, #three {
+			display:none
+		}
+		
